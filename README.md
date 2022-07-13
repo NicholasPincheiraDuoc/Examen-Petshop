@@ -1,2 +1,9 @@
 # Examen-Petshop
-Examen Gabriela, Nicholas
+Desarrollado por 
+  - Gabriela  Reyes
+  - Nicholas Pincheira
+
+Seccion 
+  - 006V
+ EXAMEN TRANSVERSAL
+
